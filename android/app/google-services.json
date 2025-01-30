@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971817649224",
+    "project_id": "tiktoklite-ac77a",
+    "storage_bucket": "tiktoklite-ac77a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971817649224:android:dc62d3c098d4ab7d24447d",
+        "android_client_info": {
+          "package_name": "com.example.tik_tok_lite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVZ7_0R_-larDeyb3jaPOJwzWhf6QqKug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
